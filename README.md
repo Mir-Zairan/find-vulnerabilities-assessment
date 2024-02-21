@@ -1,4 +1,4 @@
-# find-vulnerabilities-assessment
+# Find-Vulnerabilities-Assessment
 
 # The various vulnerabilities that I discovered are mainly:
 
